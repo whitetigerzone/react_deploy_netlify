@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "3",
+      "title": "It's a great blog!",
+      "datetime": "August 08, 2025 4:27:31 PM",
+      "body": "It's all about Italian cooking."
+    },
+    {
+      "id": "4",
+      "title": "Titans The Rise of Hollywod",
+      "datetime": "August 13, 2025 11:46:46 AM",
+      "body": "Watched it on Netflix. Not bad."
+    },
+    {
+      "id": "411",
+      "title": "Go ahead and Post Me!",
+      "datetime": "August 10, 2025 11:52:09 PM",
+      "body": "I'm postable"
+    },
+    {
+      "id": "41111",
+      "title": "The Rise of Pizza in America",
+      "datetime": "August 13, 2025 10:15:30 AM",
+      "body": "New Netflix documentary"
+    }
+  ]
+}
